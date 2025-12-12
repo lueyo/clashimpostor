@@ -1134,7 +1134,7 @@
         "key": "goblin-hut",
         "name": "Choza de Duendes",
         "sc_key": "GoblinHut",
-        "elixir": 5,
+        "elixir": 4,
         "type": "Estructura",
         "rarity": "Especial",
         "arena": 1,
